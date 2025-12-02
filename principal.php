@@ -19,8 +19,8 @@ session_start();
 <div id="menu" style="width: 200px; background-color: #f4f4f4; min-height:40px; float:left;">
     <h2>Menu</h2>
     <p><a href="cadastroUsuarios.php"><font color="black">Cadastrar Usuários</font></a></p>
+    <p><a href="cadastroGenero.php"><font color="black">Cadastrar Generos</font></a></p>
     <p><a href="cadastroFilmes.php"><font color="black">Cadastrar Filmes</font></a></p>
-    <p>Item 3</p>
 </div>
 
 <div style="background-color: #ddd; min-height:400px; width: 1000px; float:left">

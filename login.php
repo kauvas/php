@@ -16,7 +16,7 @@ if($stmt) {
         $row = $resultado->fetch_assoc();
         if($row['nome'] != ''){
             session_start();
-            $_SESSION["cpf"] = $cpf;
+            $_SESSION["cpf"] = $row["cpf"];
             $_SESSION["senha"] = $senha;
             $_SESSION["nome"] = $row["nome"];
 
