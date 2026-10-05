@@ -47,4 +47,38 @@ My approach combines clean code practices, analytical thinking, and agile manage
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 #### Front-End Development
-!
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+#### Back-End & Architecture
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MVC](https://img.shields.io/badge/Architecture-MVC-blue?style=for-the-badge)
+![REST API](https://img.shields.io/badge/API-RESTful-green?style=for-the-badge)
+
+#### Databases & Data Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Apache NiFi](https://img.shields.io/badge/Apache%20NiFi-7289DA?style=for-the-badge&logo=apache&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+#### Tools, Methodologies & Management
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Kanban](https://img.shields.io/badge/Methodology-Kanban-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+---
+
+### Languages & Certifications
+
+* **English:** Fluent — *B2 First / First Certificate in English (FCE) by Cambridge English*
+* **Portuguese:** Native
+
+---
+
+### Education
+
+* **BSc, Systems Analysis and Development** — *Uniube (Universidade de Uberaba)*
+* **JavaScript Essentials 1** — *Cisco Networking Academy*
